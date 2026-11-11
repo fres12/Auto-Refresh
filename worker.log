@@ -1,0 +1,48 @@
+2026-09-23 13:53:27,680 [INFO] [MainThread] === Worker jalan: 2026-09-23T13:53:27.680622 ===
+2026-09-23 13:53:27,680 [INFO] [MainThread] Target file: https://o365indosat-my.sharepoint.com/:x:/g/personal/2304007262_ioh_co_id/IQCu8nnX6ZIgR7mXOz7Y0Vs2AWTfgUBX4TTOqe1-qT4nw-A?e=HbKgcr
+2026-09-23 13:53:28,067 [INFO] [MainThread] Workbook yang sudah terbuka sebelum eksekusi: {'update plan nr activation - 20260921.xlsx', 'ioh - voucher 6gb dan 9gb september 26.xlsx', '5g vanguard.xlsx'}
+2026-09-23 13:53:28,336 [INFO] [MainThread] Menunggu Excel merespons via protocol handler (maks 45s)...
+2026-09-23 13:53:31,001 [WARNING] [MainThread] Error saat mengecek Workbooks: (-2147418111, 'Call was rejected by callee.', None, None)
+2026-09-23 13:53:33,004 [WARNING] [MainThread] Error saat mengecek Workbooks: (-2147418111, 'Call was rejected by callee.', None, None)
+2026-09-23 13:53:59,883 [INFO] [MainThread] === Worker jalan: 2026-09-23T13:53:59.883367 ===
+2026-09-23 13:53:59,884 [INFO] [MainThread] Target file: https://o365indosat-my.sharepoint.com/:x:/g/personal/2304007262_ioh_co_id/IQCu8nnX6ZIgR7mXOz7Y0Vs2AWTfgUBX4TTOqe1-qT4nw-A?e=HbKgcr
+2026-09-23 13:54:03,203 [INFO] [MainThread] Workbook yang sudah terbuka sebelum eksekusi: set()
+2026-09-23 13:54:03,493 [INFO] [MainThread] Menunggu Excel merespons via protocol handler (maks 45s)...
+2026-09-23 13:54:42,264 [INFO] [MainThread] === Worker jalan: 2026-09-23T13:54:42.264848 ===
+2026-09-23 13:54:42,265 [INFO] [MainThread] Target file: https://o365indosat-my.sharepoint.com/:x:/g/personal/2304007262_ioh_co_id/IQCu8nnX6ZIgR7mXOz7Y0Vs2AWTfgUBX4TTOqe1-qT4nw-A?e=HbKgcr
+2026-09-23 13:54:45,021 [INFO] [MainThread] Workbook yang sudah terbuka sebelum eksekusi: set()
+2026-09-23 13:54:45,275 [INFO] [MainThread] Menunggu Excel merespons via protocol handler (maks 45s)...
+2026-09-23 13:55:31,700 [ERROR] [MainThread] Gagal mendapatkan workbook. Pastikan login Microsoft tidak terputus / link masih valid.
+2026-09-23 13:57:13,630 [INFO] [MainThread] === Worker jalan: 2026-09-23T13:57:13.630399 ===
+2026-09-23 13:57:13,631 [INFO] [MainThread] Target file: https://o365indosat-my.sharepoint.com/:x:/g/personal/2304007262_ioh_co_id/IQCu8nnX6ZIgR7mXOz7Y0Vs2AWTfgUBX4TTOqe1-qT4nw-A?e=HbKgcr
+2026-09-23 13:57:16,767 [INFO] [MainThread] Menunggu 30s agar file kebuka...
+2026-09-23 13:57:46,790 [INFO] [MainThread] Workbook terbuka: 0
+2026-09-23 13:57:46,790 [ERROR] [MainThread] Tidak ada workbook terbuka. Pastikan login Microsoft aktif / link valid.
+2026-09-23 14:00:22,287 [INFO] [MainThread] === Worker jalan: 2026-09-23T14:00:22.287482 ===
+2026-09-23 14:00:22,288 [INFO] [MainThread] Target file: https://o365indosat-my.sharepoint.com/:x:/g/personal/2304007262_ioh_co_id/IQCu8nnX6ZIgR7mXOz7Y0Vs2AWTfgUBX4TTOqe1-qT4nw-A?e=HbKgcr
+2026-09-23 14:00:22,554 [INFO] [MainThread] Menunggu 30s agar file kebuka...
+2026-09-23 14:00:52,898 [INFO] [MainThread] Workbook terbuka di Excel aktif: 1
+2026-09-23 14:00:52,966 [INFO] [MainThread] RefreshAll -> IOH - Voucher 6GB dan 9GB September 26.xlsx
+2026-09-23 14:01:05,516 [INFO] [MainThread] === Done ===
+2026-09-23 14:13:31,353 [INFO] [MainThread] === Worker jalan: 2026-09-23T14:13:31.353151 ===
+2026-09-23 14:13:31,354 [INFO] [MainThread] Target file: https://o365indosat-my.sharepoint.com/:x:/g/personal/2304007262_ioh_co_id/IQCu8nnX6ZIgR7mXOz7Y0Vs2AWTfgUBX4TTOqe1-qT4nw-A?e=HbKgcr
+2026-09-23 14:13:31,610 [INFO] [MainThread] Menunggu 30s agar file kebuka...
+2026-09-23 14:14:01,658 [INFO] [MainThread] Workbook terbuka di Excel aktif: 0
+2026-09-23 14:14:01,658 [ERROR] [MainThread] Tidak ada workbook terbuka. Pastikan login Microsoft aktif / link valid.
+2026-09-23 14:14:27,295 [INFO] [MainThread] === Worker jalan: 2026-09-23T14:14:27.295510 ===
+2026-09-23 14:14:27,296 [INFO] [MainThread] Target file: https://o365indosat-my.sharepoint.com/:x:/g/personal/2304007262_ioh_co_id/IQCu8nnX6ZIgR7mXOz7Y0Vs2AWTfgUBX4TTOqe1-qT4nw-A?e=HbKgcr
+2026-09-23 14:14:27,506 [INFO] [MainThread] Menunggu 30s agar file kebuka...
+2026-09-23 14:14:46,613 [INFO] [MainThread] === Worker jalan: 2026-09-23T14:14:46.613359 ===
+2026-09-23 14:14:46,614 [INFO] [MainThread] Target file: https://o365indosat-my.sharepoint.com/:x:/g/personal/2304007262_ioh_co_id/IQCu8nnX6ZIgR7mXOz7Y0Vs2AWTfgUBX4TTOqe1-qT4nw-A?e=HbKgcr
+2026-09-23 14:14:46,841 [INFO] [MainThread] Menunggu 60s agar file kebuka...
+2026-09-23 14:15:46,883 [INFO] [MainThread] Workbook terbuka di Excel aktif: 1
+2026-09-23 14:15:46,910 [INFO] [MainThread] RefreshAll -> IOH - Voucher 6GB dan 9GB September 26.xlsx
+2026-09-23 14:15:57,879 [INFO] [MainThread] === Done ===
+2026-09-23 14:23:23,669 [INFO] [MainThread] === Worker jalan: 2026-09-23T14:23:23.669489 ===
+2026-09-23 14:23:23,670 [INFO] [MainThread] Target file: https://o365indosat-my.sharepoint.com/:x:/g/personal/2304007262_ioh_co_id/IQCu8nnX6ZIgR7mXOz7Y0Vs2AWTfgUBX4TTOqe1-qT4nw-A?e=HbKgcr
+2026-09-23 14:23:23,937 [INFO] [MainThread] Menunggu 60s agar file kebuka...
+2026-09-23 14:23:44,256 [INFO] [MainThread] === Worker jalan: 2026-09-23T14:23:44.256466 ===
+2026-09-23 14:23:44,258 [INFO] [MainThread] Target file: https://o365indosat-my.sharepoint.com/:x:/g/personal/2304007262_ioh_co_id/IQCu8nnX6ZIgR7mXOz7Y0Vs2AWTfgUBX4TTOqe1-qT4nw-A?e=HbKgcr
+2026-09-23 14:23:44,484 [INFO] [MainThread] Menunggu 60s agar file kebuka...
+2026-09-23 14:24:44,523 [INFO] [MainThread] Workbook terbuka di Excel aktif: 1
+2026-09-23 14:24:44,542 [INFO] [MainThread] RefreshAll -> IOH - Voucher 6GB dan 9GB September 26.xlsx
